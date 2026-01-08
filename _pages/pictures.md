@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Center for Integrated Systems (CIS) - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Center for Integrated Systems (CIS) -- Pictures"
 permalink: /pictures/
 ---
 

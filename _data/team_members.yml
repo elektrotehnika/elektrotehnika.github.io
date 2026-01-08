@@ -1,6 +1,17 @@
+- name: Vladimir M. Milovanović
+  photo: VMdbap.jpg
+  info: Associate Professor of Electrical Engineering and Computer Science, from Sep 2021, started in 2015
+  email: vlada [at] kg [dot] ac [dot] rs
+  number_educ: 4
+  education1: 2005. Dipl.-Ing. in Electrical Engineering, University of Belgrade
+  education2: 2010. PhD, Delft Universtiy of Technology
+  education3: 2011-2013 Postdoc Vienna University of Technology
+  education4: 2014-2015 Postdoc University of California, Berkeley
+ #education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+
 - name: Milan P Allan
   photo: Milan1.jpg
-  info: Professor
+  info: Associate professor, started Jan 2015
   email: milan.allan@gmail.com
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
@@ -11,7 +22,7 @@
 
 - name: Jiasen Niu
   photo: Jiasen.png
-  info: Leader Leiden Branch, started Oct 2020
+  info: Postdoc, started Oct 2020
   email: niu@physics.leidenuniv.nl
   number_educ: 2
   education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
@@ -25,47 +36,30 @@
   education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
   education2: Master, University of Tokyo
 
-- name: Thomas Gozlinski
-  photo: Thomas.jpg
-  info: Akademischer Rat, since November 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php)
-  education2: MSc KIT
-
-- name: Premakumar Yanda
-  photo: Yanda.png
-  info: Postdoc, since March 2025
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, JNCASR, with A. Sundaresan
-  education2: MSc, Andhra University
-
-- name: Stefan Rudel
-  photo: Stefan.png
-  info: Postdoc, shared with [Kloß lab](https://kloss.cup.uni-muenchen.de/dr-simon-kloss/)
+- name: Tjerk Benschop
+  photo: tjeruk.jpg
+  info: Postdoc, since 2023
   email: benschop@physics.leidenuniv.nl
   number_educ: 3
-  education1: Postdoc LMU Munich with [Wolfgang Schnick](https://www.cup.uni-muenchen.de/ac/schnick/prof-dr-w-schnick/)
-  education2: PhD TUM and University of Marburg with [Florian Kraus](https://www.uni-marburg.de/de/fb15/arbeitsgruppen/anorganische_chemie/ag-kraus)
-  education3: MSc TUM
+  education1: PhD Student, 2018-2023
+  education2: Master Leiden University with Milan Allan
+  education3: Casimir PhD fellowship
 
-- name: Devidas TR
-  photo: Devidas.png
-  info: Postdoc
+- name: Meng Li
+  photo: MengLi.jpg
+  info: Postdoc, since 2023
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
-  education1: Postdoc Bar-Ilan with [Beena Kalisky](https://beenalab.biu.ac.il)
-  education2: PhD Homi Bhabha National Institute
-  education3: MSc National Institute of Technology - Tiruchirappalli
+  education1: PhD, Institute of Physics, Chinese Academy of Sciences, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html).
+  education2: BSc University of Chinese Academy of Sciences
 
-- name: Yuval Nitzav
-  photo: Yuval.png
-  info: Postdoc
+- name: Thomas Gozlinski
+  photo: Thomas.jpg
+  info: Postdoc, since November 2023
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
-  education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
-  education2: MSc Technion
+  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php).
+  education2: MSc KIT
 
 - name: Amber Mozes
   photo: Amber.png
@@ -98,7 +92,7 @@
   education4:
 
 - name: Louw Feenstra
-  photo: Louw.jpeg
+  photo: rock.jpg
   info: PhD Student, started November 2024
   email: b
   number_educ: 2
@@ -107,6 +101,22 @@
   education3:
   education4:
 
+- name: Kees van Oosten
+  photo: DSC_1032.JPG
+  info: FFine mechanical engineer (also associated with the FMD)
+  email: Oosten@fmd.physics.leidenuniv.nl
+  number_educ: 2
+  education1: Leidse instrumentmakers School
+  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+
+- name: Hugo van Bohemen
+  photo: hugo.jpg
+  info: Fine mechanical engineer (also associated with the FMD)
+  email: h.s.m.van.bohemen@physics.leidenuniv.nl
+  number_educ: 1
+  education1: Leidse Instrumentmakers School
+  education2:
+
 - name: Ilse Kuijf
   photo: ilse.jpeg
   info: Shared PhD student in the [van Nieuwenburg group](https://evert.info)
@@ -114,29 +124,15 @@
   number_educ: 1
   education1: Master Leiden University
 
-- name: Fabian Steinmeyer
-  photo: fabian.jpg
-  info: PhD Student, started December 2025
+- name: Jaroslav Sawitsch
+  photo: jaroslav.png
+  info: Responsible for admin and finances
   email: b
   number_educ: 2
-  education1: MSc Leiden University with [Kaveh Lahabi](https://lahabilab.com) and [Simon Gröblacher](https://groeblacherlab.tudelft.nl/)
-  education2: BSc Friedrich-Alexander-Universität Erlangen-Nürnberg
+  education1: Fachklasse für Bürokaufleute, Immenstadt
+  education2: 
   education3:
   education4:
-
-- name: Marios-Apollon Marangos
-  photo: apollon.png
-  info: Engineer
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Physics TUM, with Kiutra
-
-- name: Anna Tymofieieva
-  photo: anna.png
-  info: Admin
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Nationale Pädagogische H.-S.-Skoworoda-Universität, Charkiw
 
 - name: "This could be you !"
   photo: rock.jpg

@@ -1,0 +1,6 @@
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="https://elektrotehnika.github.io/vacancies">openings</a> for more info
+  email: vlada@kg.ac.rs
+  number_educ: 0
+  education1:

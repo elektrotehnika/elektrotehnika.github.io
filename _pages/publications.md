@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Center for Integrated Systems (CIS) - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Center for Integrated Systems (CIS) -- Publications."
 sitemap: false
 permalink: /publications/
 ---

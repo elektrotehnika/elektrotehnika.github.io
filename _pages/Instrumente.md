@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Instrumente"
+title: "Center for Integrated Systems (CIS) - Instrumente"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

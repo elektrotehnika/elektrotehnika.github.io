@@ -1,0 +1,13 @@
+- name: Lazar Ilić
+  photo: LazarIlic.jpg
+  info: MSc student, enrolled October 2024
+  email: lazar@uni.kg.ac.rs
+  number_educ: 1
+  education1: BSc, University of Kragujevac, Serbia
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="https://elektrotehnika.github.io/vacancies">openings</a> for more info
+  email: vlada [at] kg [dot] ac [dot] rs
+  number_educ: 0
+  education1:

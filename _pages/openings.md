@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Center for Integrated Systems (CIS) - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

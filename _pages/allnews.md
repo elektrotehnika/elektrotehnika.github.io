@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Center for Integrated Systems (CIS) at University of Kragujevac."
 sitemap: false
 permalink: /allnews.html
 ---

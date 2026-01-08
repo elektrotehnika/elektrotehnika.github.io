@@ -1,0 +1,17 @@
+- name: Dejan Petković
+  photo: DejanPetkovic.jpg
+  info: PhD student, enrolled October 2023
+  status: Jr. Res. Asst., appointed 21 March 2024
+  email: deki@kg.ac.rs
+  number_educ: 2
+  education1: MSc, University of Belgrade, Serbia
+  education2: BSc, University of Belgrade, Serbia
+
+- name: Đorđe Gačić
+  photo: Djordje_Gacic.jpg
+  info: PhD student, enrolled October 2024
+  status: Jr. Res. Asst., appointed 23 January 2025
+  email: djordje.gacic@kg.ac.rs
+  number_educ: 2
+  education1: MSc, University of Kragujevac, Serbia
+  education2: BSc, University of Kragujevac, Serbia

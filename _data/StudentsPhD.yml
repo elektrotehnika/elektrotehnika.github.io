@@ -1,0 +1,14 @@
+- name: Dušan Obradović
+  photo: ObraDule.jpg
+  info: PhD student, enrolled October 2024
+  email: dule@uni.kg.ac.rs
+  number_educ: 2
+  education1: MSc, University of Belgrade, Serbia
+  education2: BSc, University of Belgrade, Serbia
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="https://elektrotehnika.github.io/vacancies">openings</a> for more info
+  email: vlada [at] kg [dot] ac [dot] rs
+  number_educ: 0
+  education1:
